@@ -15,7 +15,7 @@
     "Šimon Hrmo <simon.hrmo@gmail.com> (https://github.com/simonhrmo)"
   ],
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "prettier": "latest",
     "eslint-config-prettier": "latest"
   }
