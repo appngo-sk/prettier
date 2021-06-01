@@ -1,6 +1,6 @@
 {
   "name": "@appngo-sk/prettier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Appngo's prettier config module.",
   "homepage": "https://github.com/appngo-sk/prettier",
   "repository": "github:appngo-sk/prettier",
