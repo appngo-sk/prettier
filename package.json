@@ -1,12 +1,21 @@
 {
-  "name": "prettier",
+  "name": "@appngo-sk/prettier",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Appngo's prettier config module.",
+  "homepage": "https://github.com/appngo-sk/prettier",
+  "repository": "github:appngo-sk/prettier",
+  "main": ".prettierrc.json",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "appngo-sk",
+    "email": "appngo.sk@gmail.com"
+  },
+  "contributors": [
+    "Roman Stražanec <strazanec.roman@gmail.com> (https://github.com/romanstrazanec)",
+    "Šimon Hrmo <simon.hrmo@gmail.com> (https://github.com/simonhrmo)"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.3.0"
+  }
 }
