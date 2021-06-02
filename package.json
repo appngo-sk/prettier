@@ -1,6 +1,6 @@
 {
   "name": "@appngo-sk/prettier",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Appngo's prettier config module.",
   "homepage": "https://github.com/appngo-sk/prettier",
   "repository": "github:appngo-sk/prettier",
@@ -16,7 +16,6 @@
   ],
   "license": "ISC",
   "peerDependencies": {
-    "prettier": "latest",
-    "eslint-config-prettier": "latest"
+    "prettier": "latest"
   }
 }
