@@ -4,5 +4,17 @@
   "useTabs": false,
   "semi": false,
   "singleQuote": false,
-  "bracketSpacing": true
+  "bracketSpacing": true,
+  "overrides": [
+    {
+      "files": [
+        "*.json",
+        "*.yaml",
+        "*.yml"
+      ],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
 }
